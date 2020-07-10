@@ -2,6 +2,9 @@
 //and return it's average as new values are being added in. Once 
 //the class reaches full capacity, it removes the first element added in
 
+
+//Design of the class using a queue to hold the values.
+
 class Average {
     constructor(size) {
         this.size = size 
